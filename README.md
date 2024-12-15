@@ -2,6 +2,8 @@
 
 A Python bot for logging messages from public Discord servers. This bot logs both really old message and live messages, and it saves the messages in `.txt` and `.json` formats for easy access and analysis.
 
+- just created this for fun.
+
 ---
 
 ## Usage
